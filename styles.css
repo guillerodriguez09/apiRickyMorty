@@ -1,0 +1,28 @@
+.abril-fatface-regular {
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  *{
+    font-family: "Abril Fatface", serif;
+  }
+
+  body{
+    align-items: center;
+    margin: 3%;
+  }
+#intro{
+    text-align: center;
+
+}
+.card{
+    margin: 1%;
+
+}
+.navbar{
+  margin-bottom: 2%;
+}
+
+
+
