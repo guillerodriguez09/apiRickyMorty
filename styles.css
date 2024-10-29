@@ -11,15 +11,28 @@
   body{
     align-items: center;
     margin: 3%;
+    background: #c8a2cc;
   }
 #intro{
     text-align: center;
 
 }
-.card{
-    margin: 1%;
-
+h1{
+  margin: 2%;
+  align-items: center;
 }
+.card{
+    margin-top: 2%;
+    box-shadow: 0px 1px 10px rgba(0,0,0, 0.2);
+    background: #D7C3D8;
+    cursor: default;
+    transition: all 400ms ease;
+}
+.card:hover{
+box-shadow: 5px 5px 20px (0,0,0,0.4);
+transform: translateY(-3%);
+}
+
 .navbar{
   margin-bottom: 2%;
 }
